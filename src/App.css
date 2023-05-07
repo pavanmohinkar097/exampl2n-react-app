@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.redColor{
+  color: red;
+  font-size: 30px;
+  font-style: normal;
+}
+.blueColor{
+  color: blue;
+  font-size: 30px;
+  font-style: italic;
+}
